@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "U2AC2_C/1.0.0": {
+        "runtime": {
+          "U2AC2_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U2AC2_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

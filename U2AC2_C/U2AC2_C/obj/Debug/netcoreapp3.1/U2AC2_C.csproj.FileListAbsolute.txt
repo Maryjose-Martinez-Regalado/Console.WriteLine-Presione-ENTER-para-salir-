@@ -1,0 +1,14 @@
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.exe
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.deps.json
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.runtimeconfig.json
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.runtimeconfig.dev.json
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.dll
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\bin\Debug\netcoreapp3.1\U2AC2_C.pdb
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.csproj.AssemblyReference.cache
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.AssemblyInfoInputs.cache
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.AssemblyInfo.cs
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.csproj.CoreCompileInputs.cache
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.dll
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.pdb
+C:\Users\Mary\source\repos\U2AC2_C\U2AC2_C\obj\Debug\netcoreapp3.1\U2AC2_C.genruntimeconfig.cache
